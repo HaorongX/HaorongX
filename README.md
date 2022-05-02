@@ -4,4 +4,4 @@ Welcome!
 
 🌱 I’m currently learning C & Message Queue
 
-📫 How to reach me: Just send an e-mail to haorongx@outlook.com
+📫 How to reach me: Just send an e-mail to haorongxu@tutanota.com
